@@ -9,8 +9,8 @@ This project wants to produce the abstract interface of the grid of different co
 I chose a few well-known Grid as targets, listed as follows 
 
 1.Sencha ExtJS (https://www.sencha.com/) 
-2.jqGrid(http://guriddo.net/) 
-3.AG Grid(https://www.ag-grid.com/) 
+2.jqGrid(http://guriddo.net/)
+3.AG Grid(https://www.ag-grid.com/)
 4.DataTables(https://www.datatables.net/) 
 
 The preliminary goals are as follows: 
