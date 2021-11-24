@@ -15,5 +15,5 @@ I chose a few well-known Grid as targets, listed as follows
 
 The preliminary goals are as follows: 
 1. Implement some basic functions with each component library 
-2. Abstract their common functions and define the interface.
-3.Make a component adapter for each component library.
+2. Abstract their common functions and define the interface. 
+3. Make a component adapter for each component library.
