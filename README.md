@@ -1,6 +1,8 @@
 # GridAdapter
 
-There are many well-known UI component libraries. In each component library, the most complex functions are Grid and Chart. Many people choose 1 component library for development. 
+## Purpose
+
+There are many well-known UI component libraries. In each component library, the most complex functions are Grid and Chart. Many people choose 1 component library for development.
 
 But as the needs change, the component library they choose may become unsuitable. However, different component libraries are used in different ways, and the front-end code may need to be rewritten to convert another component library.
 
@@ -18,3 +20,8 @@ The preliminary goals are as follows:
 1. Implement some basic functions with each component library
 2. Abstract their common functions and define the interface.
 3. Make a component adapter for each component library.
+
+## Install
+
+1. Please Use npm install to install packages.
+2. Please get component library from the corresponding official website and put into public folder.
